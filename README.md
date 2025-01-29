@@ -37,6 +37,7 @@ Here I summerized my metrics for classification and segmentation:
   - Evaluation using accuracy, classification report, and Dice Score
   - Checking the visualization for deeper comprehension of multi task model performance!
   (**A picture is worth a thousand words.**)
+## The model achieved 95% accuracy in classifying and 0.977 Mean Dice Score in segmenting lung X-rays for four lung conditions.
 ## Here are some of results of my model:
 ![](https://github.com/fajan-py/Multi-task-segmenter-and-classifier-of-CXR-/blob/main/download-1.png)
 ![](https://github.com/fajan-py/Multi-task-segmenter-and-classifier-of-CXR-/blob/main/download-2.png)
